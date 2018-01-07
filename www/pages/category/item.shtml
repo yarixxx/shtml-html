@@ -1,0 +1,10 @@
+<!--#set var="TITLE" value="Item title"-->
+<!--#set var="DESCRIPTION" value="This is example if item page"-->
+ 
+<!--#include virtual="/sys/header.shtml" -->
+
+<h1>Item 1</h1>
+
+<p>Some item description</p>
+
+<!--#include virtual="/sys/footer.shtml" -->

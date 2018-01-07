@@ -1,0 +1,9 @@
+<!--#set var="TITLE" value="Page title"-->
+<!--#set var="DESCRIPTION" value="This is example page with title"-->
+
+<!--#include virtual="/sys/header.shtml" -->
+
+<h1>Page Title</h1>
+<p>This is content of example.</p>
+
+<!--#include virtual="/sys/footer.shtml" -->

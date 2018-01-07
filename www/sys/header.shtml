@@ -1,0 +1,22 @@
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta name="description" content="<!--#echo var="DESCRIPTION"-->" />
+	<meta name="keywords" content="<!--#echo var="KEYWORDS"-->" />
+
+	<title><!--#echo var="TITLE"--> / Example Web Site</title>
+
+	<link type="text/css" rel="stylesheet" href="/styles.css" />
+
+</head>
+
+<body>
+
+<div>
+    <div id="wrapper">
+        <div id="menu">
+            <span class="item"><a href="/index.shtml">Welcome</a></span>
+        </div>
+
+        <div id="content">

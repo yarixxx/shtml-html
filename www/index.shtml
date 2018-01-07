@@ -1,0 +1,10 @@
+<!--#set var="TITLE" value="Web site Exampe with shtml"-->
+
+<!--#include virtual="sys/header.shtml" -->
+
+<!-- This is some comment. -->
+<h1>This is header of web site example</h1>
+
+<p>Here is example of <a href="/test">hyperlink to another resource</a>.</p>
+
+<!--#include virtual="sys/footer.shtml" -->

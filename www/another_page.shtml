@@ -1,0 +1,11 @@
+<!--#set var="TITLE" value="Yet another page"-->
+<!--#set var="KEYWORDS" value="page, shtml"-->  
+ 
+<!--#include virtual="sys/header.shtml" -->
+
+<h1>Another page yet.</h1>
+
+<h2>Sub header</h2>
+<p>Yet another page paragraph.</p>
+
+<!--#include virtual="sys/footer.shtml" -->
